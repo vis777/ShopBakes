@@ -9,4 +9,5 @@ After Download extract the file and Open in Pycharm
 
 After openning the project in Pycharm type in all the html pages if required
 
-Languages used:- Backend:-Python, Django Frontend:-Html, Css, Javascript
+Languages used:- Backend:-Python, Django 
+Frontend:-Html, Css, Javascript
